@@ -51,7 +51,7 @@ This dashboard leverages the following Power BI features:
   - Reformatted date columns for consistency.
 
 ## **Dashboard Highlights**
-![Dashboard Screenshot](https://raw.githubusercontent.com/Nazneenp/online-sales-performance-dashboard/main/dashboard.jpg))  
+![Dashboard Screenshot](https://raw.githubusercontent.com/Nazneenp/online-sales-performance-dashboard/main/dashboard.jpg)
 The dashboard includes the following sections:
 1. **Sales Overview:** Displays KPIs for total sales, total quantity, total profit, and AOV.
 2. **Regional Performance:** Highlights sales distribution across regions with dynamic filtering.
